@@ -4,7 +4,14 @@ A restaurant app that allows the user to find their favourite restaurant and sav
 uses the restaurant data.csv and parse it to the database
 
 
-## Todo Features
+## DB Design 
+
+ERD on the database design in the restaurant-database-design folder , you can view it via the png file or using the xml file
+
+to open up the xml file , go to draw io and import the file
+
+
+### Todo Features
 
  login , email validation of accounts
 
